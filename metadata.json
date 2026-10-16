@@ -1,0 +1,6 @@
+{
+  "name": "RepairSetu - Trusted Electronics Repair Marketplace",
+  "description": "Don't just find a repairer. Find the right repairer. Compare trusted local repairers, transparent quotations, tracking, and digital warranties for smartphones, laptops, and tablets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
